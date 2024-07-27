@@ -1,4 +1,4 @@
-package com.jailton.apptemplateproject.baseclasses
+package com.Gabriel.lopestTreinamento.baseclasses
 
 data class Usuario(
     var key: String? = null,

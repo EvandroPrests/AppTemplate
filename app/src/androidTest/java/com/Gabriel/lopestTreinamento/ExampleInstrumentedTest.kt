@@ -1,4 +1,4 @@
-package com.jailton.apptemplateproject
+package com.Gabriel.lopestTreinamento
 
 import androidx.test.platform.app.InstrumentationRegistry
 import androidx.test.ext.junit.runners.AndroidJUnit4

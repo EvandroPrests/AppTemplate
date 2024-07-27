@@ -1,4 +1,4 @@
-package com.jailton.apptemplateproject
+package com.Gabriel.lopestTreinamento
 
 import org.junit.Test
 
